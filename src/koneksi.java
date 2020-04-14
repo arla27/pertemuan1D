@@ -26,6 +26,8 @@ public class koneksi {
       public static void main (String args[]){
           new koneksi().bukakoneksi();  
       } 
+
+
     
     
     
